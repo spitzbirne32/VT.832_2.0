@@ -46,6 +46,7 @@
   - 2x Noctua NF-A6x25 PWM (connected to [TinyFan](https://github.com/Gi7mo/TinyFan))
   - [Octopix](https://github.com/jrlomas/OctoPix)
   - [Kinematic Bed Mount](https://aliexpress.com/item/1005005494918899.html)
+  - Spicy Meatball Chamber Heater - 500W 230V with 2x Delta PFB0512EHF-R00
 
 ---
 
