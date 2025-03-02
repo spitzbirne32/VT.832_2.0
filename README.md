@@ -11,7 +11,7 @@
 
 ---
 
-## 💪🏻Running on [Kalico](https://github.com/KalicoCrew/kalico)💪🏻
+## 💪🏻Running [Kalico](https://github.com/KalicoCrew/kalico)💪🏻
 
 ## ⚙️ **Hardware Components**
 
