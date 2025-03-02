@@ -14,7 +14,7 @@
 ## ⚙️ **Hardware Components**
 
 - 🛠️ **Carriage:** [Super Lightweight Carriage for Voron Printers by Vitalii](https://www.etsy.com/listing/1639526932)
-- ⛓️ **Belts:** GATES GT3 6mm - 230Hz, 150mm free span
+- ⛓️ **Belts:** GATES GT3 6mm - 230Hz @ 150mm free span
 - 🔥 **Hotend:** Dragon UHF with 70W Heater
 - 🧩 **Extruder:** Vz-HextrudORT V2 Plus
 - 🛠️ **Probe:** Beacon Rev. H with Contact
@@ -27,9 +27,7 @@
   - Octopus Pro V1.1 (H723 Processor)
   - 2x BTT TMC 5160 Pro (A & B @48V)
   - 3x BTT TMC 2209
-  - [KUSBA ADXL V2.3](https://github.com/xbst/KUSBA)
-  - Mellow CNC Nozzle ADXL
-- 🔌 **Wiring:** IGUS CF9.UL 4x0.5mm² for CANBus
+- 🔌 **CANBus Cable:** IGUS CF9.UL 4x0.5mm²
 - 🔋 **Power Supply:**
   - Mean Well UHP-200-48
   - Mean Well UHP-250-24
@@ -53,13 +51,13 @@
 - 🌪️ [Octopus Pro FanCase (Octoglasses)](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase) with Noctua 4-Pin fans
 - 🛠️ [Nema17 Shaft Retainer by Vitalii](https://www.etsy.com/listing/1702708032) (custom for 8mm shaft motors)
 - 🌀 [TinyFan by Gi7mo](https://github.com/Gi7mo/TinyFan) with 2x Noctua NF-A6x25 PWM
-- 🔍 BTT Smart Filament Sensor V2
+- 🔍 [BTT Smart Filament Sensor V2](https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor)
 - 🏗️ [AluminumG - CNC 6mm](https://github.com/3DPrintingMods/VoronTrident-AluminumG)
 - 🏎️ [Elite Machined Ultralight X Beam](https://west3d.com/products/elite-ultralight-x-beam-for-voron-v2-4-and-trident)
 - 🎇 [Disco on a Stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick)
 - 🎨 [Px#*s on a Teststick 5vRGB+24v White](https://alchemy3d.de/de/products/px-s-on-a-teststick-5vrgb-24v-white)
 - 🌟 [Octopix](https://github.com/jrlomas/OctoPix)
 - 🔩 [Kinematic Bed Mount](https://aliexpress.com/item/1005005494918899.html)
-- 🔥 Spicy Meatball Chamber Heater - 500W 230V with 2x Delta PFB0512EHF-R00
+- 🔥 Spicy Meatball Chamber Heater - 500W 230V with 2x [Delta PFB0512EHF-R00](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF-R00/9478085)
 
 ---
