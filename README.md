@@ -58,6 +58,6 @@
 - 🎨 [Px#*s on a Teststick 5vRGB+24v White](https://alchemy3d.de/de/products/px-s-on-a-teststick-5vrgb-24v-white)
 - 🌟 [Octopix](https://github.com/jrlomas/OctoPix)
 - 🔩 [Kinematic Bed Mount](https://aliexpress.com/item/1005005494918899.html)
-- 🔥 Spicy Meatball Chamber Heater - 500W 230V with 2x [Delta PFB0512EHF-R00](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF-R00/9478085)
-
+- 🔥 [Spicy Meatball Chamber Heater - 500W 230V](https://github.com/GiulianoM/PTC_Heater_Mount) modded for Trident with 2x [Delta PFB0512EHF-R00](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF-R00/9478085)
+- 🌡️ [Therm^2 By: not salmon manඞ](https://provok3d.com/product/therm2-by-not-salmon-man%E0%B6%9E/?v=5f02f0889301)
 ---
