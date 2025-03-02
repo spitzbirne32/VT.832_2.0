@@ -11,6 +11,8 @@
 
 ---
 
+## 💪🏻Running on [Kalico](https://github.com/KalicoCrew/kalico)💪🏻
+
 ## ⚙️ **Hardware Components**
 
 - 🛠️ **Carriage:** [Super Lightweight Carriage for Voron Printers by Vitalii](https://www.etsy.com/listing/1639526932)
